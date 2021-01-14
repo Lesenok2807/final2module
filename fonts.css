@@ -5,7 +5,6 @@
     font-style: normal;
     font-display: swap;
 }
-
 @font-face {
     font-family: 'MontserratExtraBold';
     src: url('fonts/wof/Montserrat-ExtraBold.woff') format('woff');
@@ -13,7 +12,6 @@
     font-style: normal;
     font-display: swap;
 }
-
 @font-face {
     font-family: 'MontserratLight';
     src: url('fonts/wof/Montserrat-Light.woff') format('woff');
@@ -21,7 +19,6 @@
     font-style: normal;
     font-display: swap;
 }
-
 @font-face {
     font-family: 'MontserratRegular';
     src: url('fonts/wof/Montserrat-Regular.woff') format('woff');
@@ -29,7 +26,6 @@
     font-style: normal;
     font-display: swap;
 }
-
 @font-face {
     font-family: 'MontserratItalic';
     src: url('fonts/wof/Montserrat-Italic.woff') format('woff');
@@ -37,7 +33,6 @@
     font-style: italic;
     font-display: swap;
 }
-
 @font-face {
     font-family: 'MontserratBlack';
     src: url('fonts/wof/Montserrat-Black.woff') format('woff');
@@ -45,7 +40,6 @@
     font-style: italic;
     font-display: swap;
 }
-
 @font-face {
     font-family: 'GilroyBold';
     src: url('fonts/wof/gilroy-bold.woff') format('woff');
@@ -53,7 +47,6 @@
     font-style: Bold;
     font-display: swap;
 }
-
 @font-face {
     font-family: 'GilroyHeavy';
     src: url('fonts/wof/gilroy-heavy.woff') format('woff');
